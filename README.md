@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Roger
 
-I'm currently a Sr. Staff Engineer at (Veho)[https://shipveho.com]
+I'm currently a Sr. Staff Engineer at [Veho](https://shipveho.com)
 
 <img align="center" src="https://cdk-stats.vercel.app/api?username=rogerchi"/>
 

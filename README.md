@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Roger
+
+I'm currently a Sr. Staff Engineer at (Veho)[https://shipveho.com]
+
+<img align="center" src="https://cdk-stats.vercel.app/api?username=rogerchi"/>
 
 <!--
 **rogerchi/rogerchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Roger
 
-I'm currently a Sr. Staff Engineer at [Veho](https://shipveho.com)
+I currently lead software engineering at [ITE Management](https://itemgmt.com)
 
 <img align="center" src="https://cdk-stats.vercel.app/api?username=rogerchi"/>
 
